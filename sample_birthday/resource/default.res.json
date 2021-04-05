@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "button_up_png,description_json,bg_jpg,Beautiful Life_mp3,button_down_png",
+			"keys": "button_up_png,description_json,bg_jpg,Beautiful Life_mp3,button_down_png,happy_jpg",
 			"name": "preload"
 		},
 		{
@@ -69,6 +69,11 @@
 			"name": "button_down_png",
 			"type": "image",
 			"url": "assets/Button/button_down.png"
+		},
+		{
+			"name": "happy_jpg",
+			"type": "image",
+			"url": "particle/happy.jpg"
 		}
 	]
 }
