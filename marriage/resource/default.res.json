@@ -1,0 +1,114 @@
+{
+	"groups": [
+		{
+			"keys": "button_up_png,description_json,bg_jpg,Beautiful Life_mp3,button_down_png,star0_jpg,star1_jpg,star2_jpg,star3_jpg,star4_jpg,star5_jpg,star6_jpg,star7_jpg,star8_jpg,jieshou_jpg",
+			"name": "preload"
+		},
+		{
+			"keys": "ballParticle_json,ballParticle_png,star_png,finger_png,bg10_jpg",
+			"name": "cake"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "particle/ballParticle.json",
+			"type": "json",
+			"name": "ballParticle_json"
+		},
+		{
+			"url": "particle/ballParticle.png",
+			"type": "image",
+			"name": "ballParticle_png"
+		},
+		{
+			"url": "particle/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "particle/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "particle/bg10.jpg",
+			"type": "image",
+			"name": "bg10_jpg"
+		},
+		{
+			"url": "particle/finger.png",
+			"type": "image",
+			"name": "finger_png"
+		},
+		{
+			"url": "particle/Beautiful Life.mp3",
+			"type": "sound",
+			"name": "Beautiful Life_mp3"
+		},
+		{
+			"name": "button_down_png",
+			"type": "image",
+			"url": "assets/Button/button_down.png"
+		},
+		{
+			"name": "star0_jpg",
+			"type": "image",
+			"url": "star/star0.jpg"
+		},
+		{
+			"name": "star1_jpg",
+			"type": "image",
+			"url": "star/star1.jpg"
+		},
+		{
+			"name": "star2_jpg",
+			"type": "image",
+			"url": "star/star2.jpg"
+		},
+		{
+			"name": "star3_jpg",
+			"type": "image",
+			"url": "star/star3.jpg"
+		},
+		{
+			"name": "star4_jpg",
+			"type": "image",
+			"url": "star/star4.jpg"
+		},
+		{
+			"name": "star5_jpg",
+			"type": "image",
+			"url": "star/star5.jpg"
+		},
+		{
+			"name": "star6_jpg",
+			"type": "image",
+			"url": "star/star6.jpg"
+		},
+		{
+			"name": "star7_jpg",
+			"type": "image",
+			"url": "star/star7.jpg"
+		},
+		{
+			"name": "star8_jpg",
+			"type": "image",
+			"url": "star/star8.jpg"
+		},
+		{
+			"name": "jieshou_jpg",
+			"type": "image",
+			"url": "particle/jieshou.jpg"
+		}
+	]
+}
